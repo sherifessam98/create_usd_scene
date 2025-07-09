@@ -1,0 +1,15 @@
+#usda 1.0
+(
+    subLayers = [
+        @E:/Projects/create_usd_scene/usd_scene/base.usda@
+    ]
+)
+
+over "World"
+{
+    over "Ball"
+    {
+        double radius = 3
+    }
+}
+
